@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="VPlus.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="" group-title="",V Plus (1080p)
+#EXTINF:-1 tvg-id="VPlus
 http://93.157.62.180/VizionPlus/index.m3u8
 #EXTINF:0 tvg-country="AL" tvg-logo="" group-title="ceni test",Klan FHD
 http://62.210.152.92:25461/kanale2/Ass/6?checkedby:iptvcat.com
