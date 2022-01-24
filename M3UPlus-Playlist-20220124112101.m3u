@@ -1,0 +1,97 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Top chenell" tvg-logo="" group-title="Tv shqip ceni ",Top chenell
+http://62.210.152.92:25461/kanale2/Ass/8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="" group-title="Tv shqip ceni ",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Klan FHD" tvg-logo="" group-title="Tv shqip ceni ",Klan FHD
+http://62.210.152.92:25461/kanale2/Ass/6?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VIZION PLUS" tvg-logo="" group-title="Tv shqip ceni ",VIZION PLUS
+http://62.210.152.92:25461/kanale2/Ass/9?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC news" tvg-logo="" group-title="Tv shqip ceni ",ABC news
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Report tv" tvg-logo="" group-title="Tv shqip ceni ",Report tv
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ora tv" tvg-logo="" group-title="Tv shqip ceni ",Ora tv
+https://live1.mediadesk.al/oratv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adrianet" tvg-logo="" group-title="Tv shqip ceni ",Adrianet
+http://79.106.48.2:4578/live/adriamed/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neser tv" tvg-logo="" group-title="Tv shqip ceni ",Neser tv
+https://nesertv.live/ntv/livestream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Top news" tvg-logo="" group-title="Tv shqip ceni ",Top news
+http://93.157.62.180/TopNews/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Klan plus" tvg-logo="" group-title="Tv shqip ceni ",Klan plus
+http://93.157.62.180/KlanPlus/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanal drama" tvg-logo="" group-title="Tv shqip ceni ",Kanal drama
+http://190.115.29.22:8080/carter/GUV1bMq2VK/1143?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring 3" tvg-logo="" group-title="Tv shqip ceni ",Tring 3
+http://190.115.29.22:8080/carter/GUV1bMq2VK/1052?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fax News" tvg-logo="" group-title="Tv shqip ceni ",Fax News
+http://190.115.29.22:8080/carter/GUV1bMq2VK/26566?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alsat" tvg-logo="" group-title="Tv shqip ceni ",Alsat
+http://190.115.29.22:8080/carter/GUV1bMq2VK/1082?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big brother " tvg-logo="" group-title="Tv shqip ceni ",Big brother 
+http://62.210.152.92:25461/kanale2/Ass/76?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Folk plus" tvg-logo="" group-title="Tv shqip ceni ",Folk plus
+http://190.115.29.22:8080/carter/GUV1bMq2VK/1080?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elrodi " tvg-logo="" group-title="Tv shqip ceni ",Elrodi 
+https://list.iptvcat.com/my_list/s/ecfd18c16c9ecceb66f95defe0f2d8e2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bbf" tvg-logo="" group-title="Tv shqip ceni ",Bbf
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2135?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Supersonic" tvg-logo="" group-title="Tv shqip ceni ",Supersonic
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2118?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premium 1" tvg-logo="" group-title="Tv shqip ceni ",Premium 1
+http://62.210.152.92:25461/kanale2/Ass/38?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premium 2" tvg-logo="" group-title="Tv shqip ceni ",Premium 2
+http://62.210.152.92:25461/kanale2/Ass/36?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premium 3" tvg-logo="" group-title="Tv shqip ceni ",Premium 3
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2149?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gold 1" tvg-logo="" group-title="Tv shqip ceni ",Gold 1
+https://list.iptvcat.com/my_list/s/1d583aea33567ba1c121bf25575c66c4.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gold 2" tvg-logo="" group-title="Tv shqip ceni ",Gold 2
+http://62.210.152.92:25461/kanale2/Ass/43?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gold 4" tvg-logo="" group-title="Tv shqip ceni ",Gold 4
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2148?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fantazi HD" tvg-logo="" group-title="Tv shqip ceni ",Fantazi HD
+http://62.210.152.92:25461/kanale2/Ass/39?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film aksion" tvg-logo="" group-title="Tv shqip ceni ",Film aksion
+http://190.115.29.22:8080/carter/GUV1bMq2VK/242?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Aksion AL" tvg-logo="" group-title="Tv shqip ceni ",Film Aksion AL
+http://ptv.is:2095/t9m28tPG/j4PdbhNF/102638?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hits" tvg-logo="" group-title="Tv shqip ceni ",Hits
+http://62.210.152.92:25461/kanale2/Ass/34?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Exp natyra" tvg-logo="" group-title="Tv shqip ceni ",Exp natyra
+http://190.115.29.22:8080/carter/GUV1bMq2VK/244?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring aksion " tvg-logo="" group-title="Tv shqip ceni ",Tring aksion 
+http://190.115.29.22:8080/carter/GUV1bMq2VK/29833?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring comedy" tvg-logo="" group-title="Tv shqip ceni ",Tring comedy
+http://190.115.29.22:8080/carter/GUV1bMq2VK/219?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring fantasy " tvg-logo="" group-title="Tv shqip ceni ",Tring fantasy 
+http://190.115.29.22:8080/carter/GUV1bMq2VK/218?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring histori" tvg-logo="" group-title="Tv shqip ceni ",Tring histori
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2157?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring international " tvg-logo="" group-title="Tv shqip ceni ",Tring international 
+http://190.115.29.22:8080/carter/GUV1bMq2VK/29832?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring kids" tvg-logo="" group-title="Tv shqip ceni ",Tring kids
+http://190.115.29.22:8080/carter/GUV1bMq2VK/29851?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring life" tvg-logo="" group-title="Tv shqip ceni ",Tring life
+http://190.115.29.22:8080/carter/GUV1bMq2VK/217?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring muse" tvg-logo="" group-title="Tv shqip ceni ",Tring muse
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2117?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring planet" tvg-logo="" group-title="Tv shqip ceni ",Tring planet
+http://190.115.29.22:8080/carter/GUV1bMq2VK/215?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring shqip" tvg-logo="" group-title="Tv shqip ceni ",Tring shqip
+http://190.115.29.22:8080/carter/GUV1bMq2VK/214?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring super" tvg-logo="" group-title="Tv shqip ceni ",Tring super
+http://190.115.29.22:8080/carter/GUV1bMq2VK/211?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring tring" tvg-logo="" group-title="Tv shqip ceni ",Tring tring
+http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1042?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring world" tvg-logo="" group-title="Tv shqip ceni ",Tring world
+http://190.115.29.22:8080/carter/GUV1bMq2VK/209?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring sport news" tvg-logo="" group-title="Tv shqip ceni ",Tring sport news
+http://190.115.29.22:8080/carter/GUV1bMq2VK/212?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring sport 1" tvg-logo="" group-title="Tv shqip ceni ",Tring sport 1
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2156?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring sport 2" tvg-logo="" group-title="Tv shqip ceni ",Tring sport 2
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2155?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring sport 3" tvg-logo="" group-title="Tv shqip ceni ",Tring sport 3
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2154?checkedby:iptvcat.com
